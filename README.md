@@ -1,4 +1,4 @@
-# -Landslide-Detection-UNet-FCN
+# TerraSentinel: Landslide Detection with Satellite Imagery
 A deep learning-based system for landslide detection using multi-spectral satellite imagery (NDVI, DEM, Slope, RGB) with U-Net and FCN architectures for precise image segmentation and disaster prediction.
 
 # Landslide Detection with Multi-Spectral Satellite Imagery and Image Segmentation
